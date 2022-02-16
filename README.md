@@ -16,3 +16,8 @@
 # My First KG
 
 ## 数模代码储备
+
+# JavaScript
+
+1. 基础：https://github.com/Geaming-CHN/JS_HandBook
+2. 进阶
